@@ -1,1 +1,4 @@
-# chainup
+## License
+
+This project is not licensed for public use. All rights are reserved by the author. You may not use, copy, modify, or distribute this software without explicit permission from the author.
+Step
